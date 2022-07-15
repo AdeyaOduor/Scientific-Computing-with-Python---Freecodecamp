@@ -55,4 +55,4 @@ Percentage spent by category
         n     
         g     
 ```
-[freedcodecamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/budget-app)
+[freedcodecamp link](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/budget-app)
