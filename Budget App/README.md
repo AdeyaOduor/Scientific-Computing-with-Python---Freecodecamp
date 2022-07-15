@@ -1,4 +1,4 @@
-**Description**
+# Description
 
 Complete the ```Category``` class in ```budget.py```. It should be able to instantiate objects based on different budget categories like food, clothing, and entertainment. When objects are created, they are passed in the name of the category. The class should have an instance variable called ```ledger``` that is a list. The class should also contain the following methods:
 
@@ -13,6 +13,7 @@ When the budget object is printed it should display:
 * A list of the items in the ledger. Each line should show the description and amount. The first 23 characters of the description should be displayed, then the amount. The amount should be right aligned, contain two decimal places, and display a maximum of 7 characters.
 * A line displaying the category total.
 
+# Example
 Here is an example of the output:
 ```
 *************Food*************
@@ -28,7 +29,9 @@ The chart should show the percentage spent in each category passed in to the fun
 
 This function will be tested with up to four categories.
 
+# Output
 Look at the example output below very closely and make sure the spacing of the output matches the example exactly.
+
 ```
 Percentage spent by category
 100|          
