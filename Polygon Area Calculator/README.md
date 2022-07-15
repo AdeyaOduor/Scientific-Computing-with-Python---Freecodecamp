@@ -1,3 +1,5 @@
+# Description
+
 In this project you will use object oriented programming to create a Rectangle class and a Square class. The Square class should be a subclass of Rectangle and inherit methods and attributes.
 
 **Rectangle class**
@@ -21,6 +23,7 @@ The Square class should be able to access the Rectangle class methods but should
 
 Additionally, the ```set_width``` and ```set_height``` methods on the Square class should set both the width and height.
 
+# Example
 **Usage example**
 
 ```
@@ -42,6 +45,8 @@ rect.set_height(8)
 rect.set_width(16)
 print(rect.get_amount_inside(sq))
 ```
+# Output
+
 **That code should return:
 
 ```
@@ -62,3 +67,4 @@ Square(side=4)
 
 8
 ```
+[Freecodecamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/polygon-area-calculator)
