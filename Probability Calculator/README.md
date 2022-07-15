@@ -31,5 +31,7 @@ probability = experiment(hat=hat,
                   num_balls_drawn=5,
                   num_experiments=2000)
  ```
- [Freecodecamp] (https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/probability-calculator)
-Since this is based on random draws, the probability will be slightly different each time the code is run.
+**Since this is based on random draws, the probability will be slightly different each time the code is run.**
+
+[Freecodecamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/probability-calculator)
+
